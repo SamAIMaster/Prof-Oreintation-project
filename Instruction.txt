@@ -1,0 +1,9 @@
+1
+Donload Python
+2 
+open cmd (Write in windows search 'cmd' and open it)
+3
+write in cmd - 
+'pip install tk,sklearn,numpy,pandas'
+4
+Run the python code
